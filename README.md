@@ -1,1 +1,2 @@
-# JDavis52.github.io
+# Genelab Data Visualization Portal
+# User Manual
