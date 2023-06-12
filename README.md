@@ -1,2 +1,2 @@
 # Genelab Data Visualization Portal
-# User Manual
+## User Manual
