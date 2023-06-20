@@ -14,7 +14,7 @@ In the upper left corner of the plot area select the "2D" button and then press 
 
 The graph will update to display the data on an "X", and "Y" axis only.
 
-https://github.com/JDavis52/GeneLabUserManual/blob/main/PCA%20Overall.JPG
+![](PCA%20Overall.JPG)
 
 *Color by Factor*
 
