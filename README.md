@@ -24,7 +24,7 @@ Select the "Color by Facor" drop down menu
 
 Within the drop down menu select one factor, then press the "Update" button
 
-*(Color by factor image)*
+![](PCA/PCA%20Color%20by%20Factor.JPG)
 
 The results will now be represented by colors matching the factor that was selected.
 
