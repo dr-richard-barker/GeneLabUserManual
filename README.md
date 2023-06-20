@@ -8,8 +8,8 @@
 ### What is it? Why is it useful?
 #### PCA stands for Principal Component Analysis, and this type of plot is used to reduce the dimensionality of large sets of data to simplify the process of analyzing the data points.
 ### How do you use it?
-2D vs 3D visualization
-(Overall image)
-Color by Factor
-Upper right corner tools
-Click on factor labels to hide/unhide
+#### *2D vs 3D visualization*
+#### *(Overall image)*
+#### *Color by Factor*
+#### *Upper right corner tools*
+#### *Click on factor labels to hide/unhide*
