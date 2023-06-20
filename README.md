@@ -40,7 +40,7 @@ In this example (GLDS-154), the two labels provided are the cell lines "GM15036"
 
 Click on the label "GM15036" and the data points will be hidden as shown below
 
-*Hidden data picture*
+![](PCA/PCA%20Hidden%20data.JPG)
 
 Click on the label "GM15036" a second time and the data will return.
 
