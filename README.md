@@ -30,6 +30,16 @@ The results will now be represented by colors matching the factor that was selec
 
 In this example the colors are representing the cell lines and clearly shows how the cell lines could be a factor in the differences between the data points.
 
-*Upper right corner tools*
-
 *Click on factor labels to hide/unhide*
+
+Another feature within the PCA plot tool allows users to hide factors by selecting the label located on the right side of the plot.
+
+In this example, the two labels provided are the cell lines "GM15036" which is represented by the color blue, and "GM15510" represented by the color orange.
+
+Click on the label "GM15036" and the data points will be hidden as shown below
+
+*Hidden data picture*
+
+Click on the label "GM15036" a second time and the data will return.
+
+*Upper right corner tools*
