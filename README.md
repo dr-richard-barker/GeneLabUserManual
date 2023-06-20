@@ -5,6 +5,11 @@
 ### What is it?
 ### Why is it useful?
 ## PCA Plots
-### What is it?
-### Why is it useful?
+### What is it? Why is it useful?
+#### PCA stands for Principal Component Analysis, and this type of plot is used to reduce the dimensionality of large sets of data to simplify the process of analyzing the data points.
 ### How do you use it?
+#### 2D vs 3D visualization
+![Alt text] (https://github.com/JDavis52/GeneLabUserManual/blob/main/PCA%202D%20Capture.JPG "Overall")
+#### Coilor by Factor
+#### Upper right corner tools
+#### Click on factor labels to hide/unhide
