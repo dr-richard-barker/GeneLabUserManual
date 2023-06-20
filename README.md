@@ -24,11 +24,13 @@ Select the "Color by Facor" drop down menu
 
 Within the drop down menu select one factor, then press the "Update" button
 
+In this example, teh "Cell Line" factor was selected from the drop down
+
 ![](PCA/PCA%20Color%20by%20Factor.JPG)
 
 The results will now be represented by colors matching the factor that was selected.
 
-In this example (GLDS-154) the colors are representing the cell lines and clearly shows how the cell lines could be a factor in the differences between the data points.
+In this example (GLDS-154) the colors are representing the different cell lines from the experiment and clearly shows how the cell lines could be a factor in the differences between the data points.
 
 *Click on factor labels to hide/unhide*
 
