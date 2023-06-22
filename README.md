@@ -24,7 +24,7 @@ Select the "Color by Facor" drop down menu
 
 Within the drop down menu select one factor, then press the "Update" button
 
-In this example, teh "Cell Line" factor was selected from the drop down
+In this example, the "Cell Line" factor was selected from the drop down
 
 ![](PCA/PCA%20Color%20by%20Factor.JPG)
 
@@ -45,3 +45,11 @@ Click on the label "GM15036" and the data points will be hidden as shown below
 Click on the label "GM15036" a second time and the data will return.
 
 *Upper right corner tools*
+
+## Pair Plots
+### *What is it? Why is it useful?*
+Pair plots are
+
+## Volcano Plots
+### *What is it? Why is it useful?*
+Volcano plots are
