@@ -75,13 +75,17 @@ Users also have the capability to view different data correlations by clicking t
 ### *What is it? Why is it useful?*
 A volcano plot is useful for identifying events that differ significantly between two groups of experimental subjects. The name volcano plot comes from its resemblance to a volcanic eruption with the most significant points at the top, like spewed pieces of molten lava. Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
 
-
+The default display for Volcano Plots will have the -Log10(Adj P Value) with and Adj P Value threshold of 0.05 and a |Log2 FC\ threshold of 1.00 as shown below.
 
 ![](VolcanoPlot/Default.JPG)
 
-![](VolcanoPlot/P_Threshold.JPG)
+Users have the ability to change the type of data displayed on the Y axis, and the options from the dropdown menu inculde "P Value, Adjusted P Value, and -Log10(P Value)". Below is an example of the "P value" display for a volcano plot.
 
 ![](VolcanoPlot/Pvalue.JPG)
+
+The ability to change the P value threshold is also available and the image below shows a P value threshold increase to 0.8. 
+
+![](VolcanoPlot/P_Threshold.JPG)
 
 ![](VolcanoPlot/Threshold.JPG)
 
