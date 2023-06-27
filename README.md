@@ -59,6 +59,10 @@ Within the plot, users have the ability to change the % difference color thresho
 
 ![](PairPlot/ColorThreshold.JPG)
 
+Clicking each of the drop down menus will allow user to change which axis the sample data is displayed on.
+
+![](PairPlot/SampleChange.JPG)
+
 Users also have the capability to view different data correlations by clicking the green "Samples" button at the top of the plot. Clicking this button will change the dropdown to show multiple correlation coefficients for a set of data. In the example below the data has three correlation coefficients that can be chosen.
 
 ![](PairPlot/CorrelationCoefficient1.JPG)
@@ -66,8 +70,6 @@ Users also have the capability to view different data correlations by clicking t
 ![](PairPlot/CorrelationCoefficient2.JPG)
 
 ![](PairPlot/CorrelationCoefficient3.JPG)
-
-![](PairPlot/SampleChange.JPG)
 
 ## Volcano Plots
 ### *What is it? Why is it useful?*
