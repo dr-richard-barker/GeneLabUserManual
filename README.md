@@ -48,16 +48,24 @@ Click on the label "GM15036" a second time and the data will return.
 
 ## Pair Plots
 ### *What is it? Why is it useful?*
-Pair plots are
+Pair plots are used for Exploratoryt Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in our data-set.
 
 ### *How do you use it?*
 The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. 
 
 ![](PairPlot/Overview.JPG)
 
+Within the plot, users have the ability to change the % difference color threshold. Below is an example of the color threshold being altered to 37%.
+
 ![](PairPlot/ColorThreshold.JPG)
 
-![](PairPlot/CorrelationCoefficient.JPG)
+Users also have the capability to view different data correlations by clicking the green "Samples" button at the top of the plot. Clicking this button will change the dropdown to show multiple correlation coefficients for a set of data. In the example below the data has three correlation coefficients that can be chosen.
+
+![](PairPlot/CorrelationCoefficient1.JPG)
+
+![](PairPlot/CorrelationCoefficient2.JPG)
+
+![](PairPlot/CorrelationCoefficient3.JPG)
 
 ![](PairPlot/SampleChange.JPG)
 
