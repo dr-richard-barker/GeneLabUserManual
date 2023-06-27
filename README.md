@@ -83,7 +83,7 @@ Users have the ability to change the type of data displayed on the Y axis, and t
 
 ![](VolcanoPlot/Pvalue.JPG)
 
-The ability to change the P value threshold is also available and the image below shows a P value threshold increase to 0.8. 
+The ability to change the P value threshold is available and the image below shows a P value threshold increase to 0.8. 
 
 ![](VolcanoPlot/P_Threshold.JPG)
 
