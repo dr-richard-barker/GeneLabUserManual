@@ -50,6 +50,11 @@ Click on the label "GM15036" a second time and the data will return.
 ### *What is it? Why is it useful?*
 Pair plots are
 
+### *How do you use it?*
+The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. 
+
+![](PairPlot/PCA%20Overall.JPG)
+
 ## Volcano Plots
 ### *What is it? Why is it useful?*
 Volcano plots are
