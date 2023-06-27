@@ -64,3 +64,15 @@ The default display for the pair plot will be the comparison between two sets of
 ## Volcano Plots
 ### *What is it? Why is it useful?*
 Volcano plots are
+
+![](VolcanoPlot/Default.JPG)
+
+![](VolcanoPlot/P_Threshold.JPG)
+
+![](VolcanoPlot/Pvalue.JPG)
+
+![](VolcanoPlot/Threshold.JPG)
+
+![](VolcanoPlot/adj_Pvalue.JPG)
+
+![](VolcanoPlot/log_Pvalue.JPG)
