@@ -53,7 +53,13 @@ Pair plots are
 ### *How do you use it?*
 The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. 
 
-![](PairPlot/PCA%20Overall.JPG)
+![](PairPlot/Overview.JPG)
+
+![](PairPlot/ColorThreshold.JPG)
+
+![](PairPlot/CorrelationCoefficient.JPG)
+
+![](PairPlot/SampleChange.JPG)
 
 ## Volcano Plots
 ### *What is it? Why is it useful?*
