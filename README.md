@@ -51,7 +51,7 @@ Click on the label "GM15036" a second time and the data will return.
 Pair plots are used for Exploratoryt Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in our data-set.
 
 ### *How do you use it?*
-The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. 
+The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. Two plots will be displayed on the dashboard for the ability to compare multiple sets of data simultaneously. 
 
 ![](PairPlot/Overview.JPG)
 
@@ -73,7 +73,9 @@ Users also have the capability to view different data correlations by clicking t
 
 ## Volcano Plots
 ### *What is it? Why is it useful?*
-Volcano plots are
+A volcano plot is useful for identifying events that differ significantly between two groups of experimental subjects. The name volcano plot comes from its resemblance to a volcanic eruption with the most significant points at the top, like spewed pieces of molten lava. Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
+
+
 
 ![](VolcanoPlot/Default.JPG)
 
