@@ -3,6 +3,30 @@
 GeneLab is an open-access resource that enables scientists to upload, store, share, and analyze omics data from spaceflight experiments. It facilitates information sharing, fosters innovation, and accelerates scientific discovery in space biology. By studying the effects of microgravity and space environment on DNA, RNA, proteins, and metabolites, GeneLab contributes to our understanding of biology, and advances in genomics. It provides coordinated data sets and metadata, allowing users to gain comprehensive insights and make novel discoveries. GeneLab's impact lies in its ability to facilitate information sharing, drive innovation, and ultimately expand our knowledge of how space conditions affect the fundamental building blocks of life.
 ## About Data Visualization
 GeneLab has a Data Visualiation portal that provides users have the ability to interact with the processed data from space related studies within GeneLab's database. The portal encompasses various visualization types, including Gene Expression query tables, Dendrograms, Heatmaps, Ideogram, Gene Set Enrichment Analysis and a range of interactive plots including PCA plots, Pair plots, and Volcano plots. Each tool offers researchers flexibility to adjust parameters and explore specific aspects of the data effectively.
+
+## Metadata Dashboard
+The metadata dashboard is the 
+
+### Pi Charts/# of Studies
+
+Each section of the Pi chart acts as a filter, and when selected will automatically search for results containing that factor aand display the results in the studies table below.
+
+### Filters on Left
+
+Bacteria has Krona Filter
+
+### Studies Table
+
+## Sidebar Functions
+
+### Study Details button
+
+### Plot links take you to plot location
+
+### Modify Groups button
+
+### Multi-study visualization has download DGE table button
+
 ## PCA Plots
 ### *What is it? Why is it useful?*
 PCA stands for Principal Component Analysis, and this type of plot is used to reduce the dimensionality of large sets of data to simplify the process of analyzing the data points.
