@@ -19,7 +19,11 @@ In addition to the Pi Charts, there are specific filters on the left side of the
 
 *Picture*
 
-Another tool provided with the Pi charts is the crosshairs on the bottom-left of each individual Pi chart. When you select the crosshair a bar graph displaying the different factors listed 
+Another tool provided with each individual Pi chart is the crosshairs on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing Ionizing Radiation from the bar graph selection.
+
+*Picture*
+
+After selecting the desired filter from the bar graph, the user can press the apply filter button to update the results within the studies table.
 
 ### Studies Table
 
