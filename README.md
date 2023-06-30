@@ -9,13 +9,13 @@ The metadata dashboard is designed to help users narrow search results for exper
 
 ### Pi Charts/# of Studies
 
-Each section of the Pi chart acts as a filter, and when selected will automatically search for results containing that factor and display the results in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table.
+The main tools for filtering the studies table's results are the Pi charts and the filters on the left side of the dashboard. Each section of the Pi chart acts as a seperate section of filters, and when a filter from the Pi chart is selected the results containing that factor will automatically populate in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table further.
 
 *Picture*
 
 ### Filters on Left
 
-In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will update to the selected filters.
+In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters as will the studies table.
 
 *Picture*
 
@@ -23,7 +23,9 @@ Another tool provided with each individual Pi chart is the crosshairs on the bot
 
 *Picture*
 
-After selecting the desired filter from the bar graph, the user can press the apply filter button to update the results within the studies table.
+After selecting the desired filter from the bar graph, the user can press the apply filter button to update the results within the studies table. When a filter is selected, a red "X" will appear next to the crosshair of the associated Pi chart. Pressing the red "X" button will clear the selected filters.
+
+*Picture*
 
 ### Studies Table
 
