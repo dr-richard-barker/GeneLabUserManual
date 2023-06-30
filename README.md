@@ -29,6 +29,8 @@ After selecting the desired filter from the bar graph, the user can press the ap
 
 ### Studies Table
 
+Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" to be directed to the data visualization tools.
+
 ## Sidebar Functions
 
 ### Study Details button
