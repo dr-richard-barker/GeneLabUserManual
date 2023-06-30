@@ -5,15 +5,21 @@ GeneLab is an open-access resource that enables scientists to upload, store, sha
 GeneLab has a Data Visualiation portal that provides users have the ability to interact with the processed data from space related studies within GeneLab's database. The portal encompasses various visualization types, including Gene Expression query tables, Dendrograms, Heatmaps, Ideogram, Gene Set Enrichment Analysis and a range of interactive plots including PCA plots, Pair plots, and Volcano plots. Each tool offers researchers flexibility to adjust parameters and explore specific aspects of the data effectively.
 
 ## Metadata Dashboard
-The metadata dashboard is the 
+The metadata dashboard is designed to help users narrow search results for experimental data. It provides various tools for filtering and displaying results.
 
 ### Pi Charts/# of Studies
 
-Each section of the Pi chart acts as a filter, and when selected will automatically search for results containing that factor aand display the results in the studies table below.
+Each section of the Pi chart acts as a filter, and when selected will automatically search for results containing that factor and display the results in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table.
+
+*Picture*
 
 ### Filters on Left
 
-Bacteria has Krona Filter
+In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will update to the selected filters.
+
+*Picture*
+
+Another tool provided with the Pi charts is the crosshairs on the bottom-left of each individual Pi chart. When you select the crosshair a bar graph displaying the different factors listed 
 
 ### Studies Table
 
