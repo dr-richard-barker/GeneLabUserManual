@@ -45,11 +45,21 @@ When a user is directed to the data visualization tools a sidebar of tools is pr
 
 ### Study Details button
 
+The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled samples that a user can press to see the individual samples and additional information.
+
+*Picture*
+
 ### Plot links take you to plot location
+
+Below the study details button is a label for each plot provided within the data visualization tool. Clicking these labeles when direct the user to the plot associated with the label.
 
 ### Modify Groups button
 
+At the bottom of the sidebar is the default Group selection that is utilized for each plot. A user can modify the groups that are selected by pressing the "Modify Groups" button. This button will prompt the user to select the individual groups that a user would like to see displayed on each plot.
+
 ### Multi-study visualization has download DGE table button
+
+
 
 ## PCA Plots
 ### *What is it? Why is it useful?*
