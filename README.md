@@ -37,7 +37,7 @@ The studies will be listed in order of OSD-# from smallest to largest, but the o
 
 *Picture*
 
-Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" button to be directed to the data visualization tools.
+Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" button to be directed to the data visualization tools. A user may also select multiple studies to visualize simultaneously. *Multi-Study*
 
 ## Sidebar Functions
 
@@ -59,7 +59,7 @@ At the bottom of the sidebar is the default Group selection that is utilized for
 
 ### Multi-study visualization has download DGE table button
 
-
+A feature exclusive to multi-study visualization is the option to download the combined Differential Gene Expression table.
 
 ## PCA Plots
 ### *What is it? Why is it useful?*
