@@ -13,7 +13,7 @@ The main tools for filtering the studies table's results are the Pi charts and t
 
 *Picture*
 
-### Filters on Left
+### Filters on Left (Processed data only checkmark)
 
 In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters as will the studies table.
 
@@ -148,3 +148,25 @@ The ability to change the P value threshold is available and the image below sho
 ![](VolcanoPlot/adj_Pvalue.JPG)
 
 ![](VolcanoPlot/log_Pvalue.JPG)
+
+## Heatmap
+
+Describe what a heatmap is/shows
+
+
+
+Default settings
+
+Clustering method
+
+Toggle off settings
+
+Log2 transformation
+
+Filter significance of genes
+
+## DGE Table
+
+Describe DGE table
+
+Export options
