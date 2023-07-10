@@ -167,6 +167,6 @@ Filter significance of genes
 
 ## DGE Table
 
-Describe DGE table
+DGE stands for Differential Gene Expression and represents the number of sequence reads that originated from a particular gene. The higher the number of counts, the more reads associated with that gene, and the assumption that there was a higher level of expression of that gene in the sample. 
 
 Export options
