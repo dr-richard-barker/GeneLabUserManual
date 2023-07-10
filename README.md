@@ -151,13 +151,13 @@ The ability to change the P value threshold is available and the image below sho
 
 ## Heatmap
 
-Describe what a heatmap is/shows
-
-
+Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression.
 
 Default settings
 
-Clustering method
+*Picture*
+
+Users are able to choose which clustering method is used to display the results. 
 
 Toggle off settings
 
