@@ -7,6 +7,7 @@ GeneLab has a Data Visualiation portal that provides users have the ability to i
 
 ## Metadata Dashboard
 [Link to Metadata Dashboard](https://visualization.genelab.nasa.gov/data/)
+
 The metadata dashboard is designed to help users narrow search results for experimental data. It provides various tools for filtering and displaying results.
 The main tools for filtering the studies table's results are the Pi charts and the filters on the left side of the dashboard. Each section of the Pi chart acts as a separate section of filters, and when a filter from the Pi chart is selected the results containing that factor will automatically populate in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table further.
 
