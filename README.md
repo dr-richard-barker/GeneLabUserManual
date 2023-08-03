@@ -126,6 +126,7 @@ Users also have the capability to view different data correlations by clicking t
 ![](PairPlot/CorrelationCoefficient3.JPG)
 
 ## Volcano Plots
+[Link to read about Volcanoi Plots](https://www.htgmolecular.com/blog/2022-08-25/understanding-volcano-plots)
 
 A volcano plot is useful for identifying events that differ significantly between two groups of experimental subjects. The name volcano plot comes from its resemblance to a volcanic eruption with the most significant points at the top, like spewed pieces of molten lava. Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
 
@@ -142,6 +143,7 @@ The ability to change the P value threshold is available and the image below sho
 ![](VolcanoPlot/Threshold.JPG)
 
 ## Heatmap
+[Link to read about Heatmaps](https://www.htgmolecular.com/blog/2023-05-03/understanding-heat-maps-in-gene-expression-profiling)
 
 Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression.
 
@@ -154,6 +156,7 @@ Users are able to choose which clustering method is used to display the results.
 Toggle off settings
 
 ## GSEA
+[Link to read about GSEA](https://www.pnas.org/doi/10.1073/pnas.0506580102)
 
 GSEA stands for gene set enrichment analysis and it is a method that identifies classes of genes that are over represented in a large set of genes. It is a method that uses a statistical approach to identify significantly enriched or depleted groups of genes.
 
