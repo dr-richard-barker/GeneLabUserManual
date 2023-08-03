@@ -54,7 +54,11 @@ When a user accesses the multi-study visualization the DGE table will have sever
 
 ##Plotly
 
+Plotly is a third party software that is using data provided by GeneLab to create the interactive visualizations displayed. At the top-right corner of each plot will be options to help a user better visualize the data.
 
+*Picture*
+
+The house logo within the options will reset the axes of the plots back to default. Users are also provided the option to zoom in/out on each plot as well as autoscale the graphic. There are two tools provided for data point selection, which are the lasso tool and box tool. Each of these tools provides a shape that will select any data points that fall within them. Lastly, there is a download button in the shape of a camera that will let you download the plot as a PNG file. 
 
 ## PCA Plots
 
@@ -143,6 +147,16 @@ Default settings
 Users are able to choose which clustering method is used to display the results. 
 
 Toggle off settings
+
+## GSEA
+
+GSEA stands for gene set enrichment analysis and it is a method that identifies classes of genes that are over represented in a large set of genes. It is a method that uses a statistical approach to identify significantly enriched or depleted groups of genes.
+
+## Ideogram
+
+
+
+## Multistudy Page Overview
 
 Log2 transformation
 
