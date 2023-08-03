@@ -15,11 +15,11 @@ The main tools for filtering the studies table's results are the Pi charts and t
 
 In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters and the studies table will be updated to show the relevant studies.
 
-[Picture]
+*Picture*
 
 Another tool that is provided with each individual Pi chart is the crosshair located on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing Ionizing Radiation from the bar graph selection.
 
-[Picture]
+*Picture*
 
 After selecting the desired filter from the bar graph, the user can press the “apply filter” button to update the results within the studies table. When a filter is selected, a red "X" will also appear next to the crosshair of the associated Pi chart. Pressing the red "X" button will clear the selected filters.
 
