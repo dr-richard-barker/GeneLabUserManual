@@ -25,7 +25,7 @@ After selecting the desired filter from the bar graph, the user can press the â€
 
 *Picture*
 
-##Studies Table
+## Studies Table
 
 Below the Pi charts is a table that lists the studies resulting from the selected filters from above. The table includes the following information for each study: OSD, Title, Assay, Organism, Tissue, and Factor.
 
@@ -55,7 +55,7 @@ DGE stands for Differential Gene Expression and represents the number of sequenc
 
 When a user accesses the multi-study visualization the DGE table will have several options to export the information at the top of the table. These options include [export options]
 
-##Plotly
+## Plotly
 
 Plotly is a third party software that is using data provided by GeneLab to create the interactive visualizations displayed. At the top-right corner of each plot will be options to help a user better visualize the data.
 
@@ -64,6 +64,7 @@ Plotly is a third party software that is using data provided by GeneLab to creat
 The house logo within the options will reset the axes of the plots back to default. Users are also provided the option to zoom in/out on each plot as well as autoscale the graphic. There are two tools provided for data point selection, which are the lasso tool and box tool. Each of these tools provides a shape that will select any data points that fall within them. Lastly, there is a download button in the shape of a camera that will let you download the plot as a PNG file. 
 
 ## PCA Plots
+[Link to read about PCA plots](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
 PCA stands for Principal Component Analysis, and this type of plot is used to reduce the dimensionality of large sets of data to simplify the process of analyzing the data points.
 
@@ -100,6 +101,7 @@ Click on the label "GM15036" and the data points will be hidden as shown below
 Click on the label "GM15036" a second time and the data will return.
 
 ## Pair Plots
+[Link to read about Pair Plots](https://medium.com/analytics-vidhya/pairplot-visualization-16325cd725e6#:~:text=Pair%20plot%20is%20used%20to,separation%20in%20our%20data%2Dset.)
 
 Pair plots are used for Exploratoryt Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in a dataset.
 
