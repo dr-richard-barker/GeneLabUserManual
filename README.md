@@ -6,75 +6,67 @@ GeneLab has a Data Visualiation portal that provides users have the ability to i
 
 ## Metadata Dashboard
 The metadata dashboard is designed to help users narrow search results for experimental data. It provides various tools for filtering and displaying results.
-
-### Pi Charts/# of Studies
-
-The main tools for filtering the studies table's results are the Pi charts and the filters on the left side of the dashboard. Each section of the Pi chart acts as a seperate section of filters, and when a filter from the Pi chart is selected the results containing that factor will automatically populate in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table further.
+The main tools for filtering the studies table's results are the Pi charts and the filters on the left side of the dashboard. Each section of the Pi chart acts as a separate section of filters, and when a filter from the Pi chart is selected the results containing that factor will automatically populate in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table further.
 
 *Picture*
 
-### Filters on Left (Processed data only checkmark)
+In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters and the studies table will be updated to show the relevant studies.
 
-In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters as will the studies table.
+[Picture]
 
-*Picture*
+Another tool that is provided with each individual Pi chart is the crosshair located on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing Ionizing Radiation from the bar graph selection.
 
-Another tool provided with each individual Pi chart is the crosshairs on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing Ionizing Radiation from the bar graph selection.
+[Picture]
 
-*Picture*
-
-After selecting the desired filter from the bar graph, the user can press the apply filter button to update the results within the studies table. When a filter is selected, a red "X" will appear next to the crosshair of the associated Pi chart. Pressing the red "X" button will clear the selected filters.
+After selecting the desired filter from the bar graph, the user can press the “apply filter” button to update the results within the studies table. When a filter is selected, a red "X" will also appear next to the crosshair of the associated Pi chart. Pressing the red "X" button will clear the selected filters.
 
 *Picture*
 
-### Studies Table
+##Studies Table
 
-Below the Pi charts is a table that lists the studies resulting from the selected filters. The table includes the following information for each study: OSD, Title, Assay, Organism, Tissue, and Factor.
-
-*Picture*
-
-The studies will be listed in order of OSD-# from smallest to largest, but the order can be flipped based on each information category by clicking the title of the category twice.
+Below the Pi charts is a table that lists the studies resulting from the selected filters from above. The table includes the following information for each study: OSD, Title, Assay, Organism, Tissue, and Factor.
 
 *Picture*
 
-Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" button to be directed to the data visualization tools. A user may also select multiple studies to visualize simultaneously. *Multi-Study*
+By default the studies will be listed in order of OSD-# from smallest to largest, but the order can be flipped based on each information category by clicking the title of the category twice.
+
+*Picture*
+
+Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" button to be directed to the data visualization tools. A user may also select multiple studies to visualize simultaneously in which case a user will be directed to a Multi-Study preview page before being directed to the data visualization tools.
 
 ## Sidebar Functions
 
-When a user is directed to the data visualization tools a sidebar of tools is provided on the left side of the screen.
+When a user is directed to the data visualization tools, a sidebar of helpful tools is provided on the left side of the screen.
 
-### Study Details button
-
-The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled samples that a user can press to see the individual samples and additional information.
+The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled “samples” that a user can press to see the individual samples and additional information for the study.
 
 *Picture*
 
-### Plot links take you to plot location
-
-Below the study details button is a label for each plot provided within the data visualization tool. Clicking these labeles when direct the user to the plot associated with the label.
-
-### Modify Groups button
+Below the study details button is a label for each individual plot provided for a user within the data visualization tool. Clicking these labels will automatically direct the user to the plot associated with the label.
 
 At the bottom of the sidebar is the default Group selection that is utilized for each plot. A user can modify the groups that are selected by pressing the "Modify Groups" button. This button will prompt the user to select the individual groups that a user would like to see displayed on each plot.
 
-### Multi-study visualization has download DGE table button
-
 A feature exclusive to multi-study visualization is the option to download the combined Differential Gene Expression table.
 
+DGE stands for Differential Gene Expression and represents the number of sequence reads that originated from a particular gene. The higher the number of counts, the more reads associated with that gene, and the assumption that there was a higher level of expression of that gene in the sample.
+
+When a user accesses the multi-study visualization the DGE table will have several options to export the information at the top of the table. These options include [export options]
+
+##Plotly
+
+
+
 ## PCA Plots
-### *What is it? Why is it useful?*
+
 PCA stands for Principal Component Analysis, and this type of plot is used to reduce the dimensionality of large sets of data to simplify the process of analyzing the data points.
 
-### *How do you use it?*
-*2D vs 3D visualization* Each PCA plot will include options for a 2D and 3D representation of the data. The default selection is a 3D representation on an "X", "Y", and "Z" axis.
+Each PCA plot will include options for a 2D and 3D representation of the data. The default selection is a 3D representation on an "X", "Y", and "Z" axis.
 
 In the upper left corner of the plot area select the "2D" button and then press "Update"
 
 The graph will update to display the data on an "X", and "Y" axis only.
 
 ![](PCA/PCA%20Overall.JPG)
-
-*Color by Factor*
 
 The "Color by Factor" feature allows users to select a specific factor from the study for representation on the graph to allow for an easier comparison between differences in the data.
 
@@ -88,13 +80,11 @@ In this example, the "Cell Line" factor was selected from the drop down
 
 The results will now be represented by colors matching the factor that was selected.
 
-In this example (GLDS-154) the colors are representing the different cell lines from the experiment and clearly shows how the cell lines could be a factor in the differences between the data points.
-
-*Click on factor labels to hide/unhide*
+In this example, (OSD-154) the colors are representing the different cell lines from the experiment and clearly shows how the cell lines could be a factor in the differences between the data points.
 
 Another feature within the PCA plot tool allows users to hide factors by selecting the label located on the right side of the plot.
 
-In this example (GLDS-154), the two labels provided are the cell lines "GM15036" which is represented by the color blue, and "GM15510" represented by the color orange.
+The two labels provided are the cell lines "GM15036" which is represented by the color blue, and "GM15510" represented by the color orange.
 
 Click on the label "GM15036" and the data points will be hidden as shown below
 
@@ -102,13 +92,10 @@ Click on the label "GM15036" and the data points will be hidden as shown below
 
 Click on the label "GM15036" a second time and the data will return.
 
-*Upper right corner tools*
-
 ## Pair Plots
-### *What is it? Why is it useful?*
-Pair plots are used for Exploratoryt Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in our data-set. (Reproducible, an ideal plot would have a correlation of 1) (2 groups because they only compare samples with same conditions)
 
-### *How do you use it?*
+Pair plots are used for Exploratoryt Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in a dataset.
+
 The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. Two plots will be displayed on the dashboard for the ability to compare multiple sets of data simultaneously. 
 
 ![](PairPlot/Overview.JPG)
@@ -130,7 +117,7 @@ Users also have the capability to view different data correlations by clicking t
 ![](PairPlot/CorrelationCoefficient3.JPG)
 
 ## Volcano Plots
-### *What is it? Why is it useful?*
+
 A volcano plot is useful for identifying events that differ significantly between two groups of experimental subjects. The name volcano plot comes from its resemblance to a volcanic eruption with the most significant points at the top, like spewed pieces of molten lava. Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
 
 The default display for Volcano Plots will have the -Log10(Adj P Value) with and Adj P Value threshold of 0.05 and a Log2 FC threshold of 1.00 as shown below.
@@ -144,10 +131,6 @@ Users have the ability to change the type of data displayed on the Y axis, and t
 The ability to change the P value threshold is available and the image below shows a P value threshold increase to 0.8. 
 
 ![](VolcanoPlot/Threshold.JPG)
-
-![](VolcanoPlot/adj_Pvalue.JPG)
-
-![](VolcanoPlot/log_Pvalue.JPG)
 
 ## Heatmap
 
@@ -165,8 +148,3 @@ Log2 transformation
 
 Filter significance of genes
 
-## DGE Table
-
-DGE stands for Differential Gene Expression and represents the number of sequence reads that originated from a particular gene. The higher the number of counts, the more reads associated with that gene, and the assumption that there was a higher level of expression of that gene in the sample. 
-
-Export options
