@@ -240,11 +240,11 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 * Selecting studies for Multi-study analysis:
 
   * For your initial test, let's use rodent studies as an example.
-  1. Start by selecting "rodent" as the organism of interest.
-  *Since combining DNA microarray assays is not supported, ensure to filter by both "rodent" and "RNA sequencing" in the assay technology type.*
-  3. Choose two different rodent studies that encompass various tissue types. For instance, select "OSD-49" and "OSD-100."
-  4. Mark the checkboxes beside the selected studies in the studies table.
-  5. Click the "Visualize Study" button to proceed.
+  * Start by selecting "rodent" as the organism of interest.
+    * *Since combining DNA microarray assays is not supported, ensure to filter by both "rodent" and "RNA sequencing" in the assay technology type.*
+  * Choose two different rodent studies that encompass various tissue types. For instance, select "OSD-49" and "OSD-100."
+  * Mark the checkboxes beside the selected studies in the studies table.
+  * Click the "Visualize Study" button to proceed.
 
 * Data Normalization:
 
@@ -252,17 +252,16 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
   * The default selection is often "DC2" for normalization, but you can also choose "No Normalization."
   * If desired, you can enter your email address to receive a notification when the studies have been combined and normalized.
     * Alternatively, proceed without entering an email address.
-Arrival at the Multi-Study Page:
+      
+* Exploring the Multi-Study Page:
 
-Once the webpage loads or when you click the email notification link, the Multi-Study Page interface will be displayed.
-Exploring the Multi-Study Page:
+  * A PCA chart for data visualization will be included on the multi-study page
+    * Utilize the PCA chart options to tailor your visualization based on specific criteria.
 
-The Multi-Study Page presents a PCA (Principal Component Analysis) chart for data visualization.
-Utilize the PCA chart options to tailor your visualization based on specific criteria.
-Factor Selection and Differential Gene Analysis:
+* Factor Selection and Differential Gene Analysis:
 
-Under "Factor Selection," choose variables to generate a factors table for differential gene analysis.
-Select parameters, characteristics, or factors from the dropdown list to add to the table.
+  * Under "Factor Selection," choose variables to generate a factors table for differential gene analysis.
+  * Select parameters, characteristics, or factors from the dropdown list to add to the table.
 Normalization and PCA Insights:
 
 Understand normalization details by clicking the Information button next to the normalization method.
