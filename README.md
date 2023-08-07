@@ -208,6 +208,8 @@ By following these steps, you can export the Differential Gene Expression table 
 
 GSEA stands for gene set enrichment analysis, a method to identify gene groups that are overrepresented in a large gene set. It uses statistics to pinpoint significantly enriched or depleted gene classes.
 
+*Overview Picture*
+
 On the Gene Lab Visualization Portal, you'll find a dedicated GSEA section for each study. Within this GSEA section, there are various parameters you can customize:
 
 1. Choose Gene Sets: Opt for the gene sets to filter from. The default is "KEGG 2019," which is recommended.
@@ -227,10 +229,9 @@ To update the plot with your changes, simply click "Update." A range of plot typ
 
 With these steps, you can effectively navigate and utilize the GSEA section, gaining insights into gene set enrichment analysis for your study.
 
-
 ## Ideogram
 
-
+*Not finished*
 
 ## Multistudy Page Overview
 
