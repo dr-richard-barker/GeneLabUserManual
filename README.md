@@ -241,7 +241,7 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 
   * For your initial test, let's use rodent studies as an example.
   1. Start by selecting "rodent" as the organism of interest.
-    * Since combining DNA microarray assays is not supported, ensure to filter by both "rodent" and "RNA sequencing" in the assay technology type.
+  *Since combining DNA microarray assays is not supported, ensure to filter by both "rodent" and "RNA sequencing" in the assay technology type.*
   3. Choose two different rodent studies that encompass various tissue types. For instance, select "OSD-49" and "OSD-100."
   4. Mark the checkboxes beside the selected studies in the studies table.
   5. Click the "Visualize Study" button to proceed.
