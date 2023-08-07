@@ -39,7 +39,7 @@ Finally, once a user has selected a study or multiple studies they can press the
 
 ## Sidebar Functions
 
-When a user is directed to the data visualization tools, a sidebar of helpful tools is provided on the left side of the screen.
+When a user has selected the study/studies to visualize, they will be drirected to the data visualization tools, where a sidebar of helpful tools is provided on the left side of the screen.
 
 The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled “samples” that a user can press to see the individual samples and additional information for the study.
 
