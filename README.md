@@ -176,14 +176,14 @@ To export a Differential Gene Expression (DGE) table from the study visualizatio
 
 * To save the data in various file formats, look for the corresponding buttons.
 * For a CSV file:
---* Locate and click the "CSV" button. This will prompt a download of the DGE table data in CSV format to your device.
+  * Locate and click the "CSV" button. This will prompt a download of the DGE table data in CSV format to your device.
 * For an Excel file:
---* Look for the "Excel" button. Click it to initiate the download of the DGE table data in Excel format (XLSX) to your device.
+  * Look for the "Excel" button. Click it to initiate the download of the DGE table data in Excel format (XLSX) to your device.
 * For a PDF file:
---* Find and select the "PDF" button. This action will convert the DGE table into a PDF file that you can save to your device.
+  * Find and select the "PDF" button. This action will convert the DGE table into a PDF file that you can save to your device.
 * For Printing:
---* Spot the "Print" button. Clicking this will open a new window displaying a printer-friendly version of the DGE table.
---* You can then use your browser's print functionality to print the table directly.
+  * Spot the "Print" button. Clicking this will open a new window displaying a printer-friendly version of the DGE table.
+  * You can then use your browser's print functionality to print the table directly.
 
 By following these steps, you can export the Differential Gene Expression table data from the study visualization page in a variety of formats. Choose the method that best suits your needs to access and analyze the DGE data efficiently.
 
