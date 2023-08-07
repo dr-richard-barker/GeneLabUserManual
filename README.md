@@ -145,15 +145,27 @@ The ability to change the P value threshold is available and the image below sho
 ## Heatmap
 [Link to read about Heatmaps](https://www.htgmolecular.com/blog/2023-05-03/understanding-heat-maps-in-gene-expression-profiling)
 
-Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression.
-
-Default settings
+Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression. The default settings for the heat map are shown in the image below. The heatmap links genes depending on how alike they are based on the conditions set in the experiment.  
 
 *Picture*
 
-Users are able to choose which clustering method is used to display the results. 
+Users have the ability to choose which clustering method is used to display the results with the default method set to UPGMA. Users can also toggle off the rows/columns which will change how the heatmap links the common genes.
 
-Toggle off settings
+*Picture cluster Rows toggled off*
+
+*Picture cluster columns toggled off*
+
+The Log2 transformation feature is available to aid in the display of genes with more apparent differences.
+
+Lastly, users have the capability of filtering the genes that are displayed by their significance. 
+
+##DGE Table
+
+The DGE table is located at the bottom of each study visualization page. The table offers multiple ways for a user to export the data within the table.
+
+The first way is for a user to select the “Copy” button which will copy the entire table to the user’s clipboard.
+
+The second way is for a user to save the data in different file types to their device. Selecting the “CSV” button allows a user to save a CSV file of the data within the table to their device. The “Excel” button is similar with the difference that the user will be saving an excel file instead of a CSV file. The “PDF” button will convert the table into a PDF that a user can save, and the “Print” button opens a new window with a printer friendly version of the table for the user to print out directly.
 
 ## GSEA
 [Link to read about GSEA](https://www.pnas.org/doi/10.1073/pnas.0506580102)
