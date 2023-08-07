@@ -176,11 +176,12 @@ Welcome to the Gene Set Enrichment Analysis (GSEA) section. GSEA stands for gene
 
 On the Gene Lab Visualization Portal, you'll find a dedicated GSEA section for each study. Within this GSEA section, there are various parameters you can customize:
 
-Choose Gene Sets: Opt for the gene sets to filter from. The default is "KEGG 2019," which is recommended.
-Permutations: Decide the number of permutations you desire and whether they're based on phenotypes or gene sets.
-Gene Number Range: Adjust the minimum and maximum gene sizes. Increasing the minimum size omits genes with fewer than 15 data points, same for the maximum size.
-Weighted Score Type: Defaults to one, representing the t-test. Alternatively, choose signal-to-noise, fold change, or log2 fold change.
-Statistical Method: Select your preferred statistical method. The default is the t-test.
+1. Choose Gene Sets: Opt for the gene sets to filter from. The default is "KEGG 2019," which is recommended.
+2. Permutations: Decide the number of permutations you desire and whether they're based on phenotypes or gene sets.
+3. Gene Number Range: Adjust the minimum and maximum gene sizes. Increasing the minimum size omits genes with fewer than 15 data points, same for the maximum size.
+4. Weighted Score Type: Defaults to one, representing the t-test. Alternatively, choose signal-to-noise, fold change, or log2 fold change.
+5. Statistical Method: Select your preferred statistical method. The default is the t-test.
+
 To update the plot with your changes, simply click "Update." A range of plot types is available:
 
 NES Table: View different gene sets in a table format. Export this table using the options at the top.
