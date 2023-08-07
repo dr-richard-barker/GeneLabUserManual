@@ -170,9 +170,7 @@ The second way is for a user to save the data in different file types to their d
 ## GSEA
 [Link to read about GSEA](https://www.pnas.org/doi/10.1073/pnas.0506580102)
 
-GSEA stands for gene set enrichment analysis and is a method that identifies classes of genes that are over represented in a large set of genes. It is a method that uses a statistical approach to identify significantly enriched or depleted groups of genes. On the GeneLab visualization portal there is a GSEA section for each study with various tabs of information. Within that GSEA section, there are multiple aspects that a user can alter.
-
-Welcome to the Gene Set Enrichment Analysis (GSEA) section. GSEA stands for gene set enrichment analysis, a method to identify gene groups that are overrepresented in a large gene set. It uses statistics to pinpoint significantly enriched or depleted gene classes.
+GSEA stands for gene set enrichment analysis, a method to identify gene groups that are overrepresented in a large gene set. It uses statistics to pinpoint significantly enriched or depleted gene classes.
 
 On the Gene Lab Visualization Portal, you'll find a dedicated GSEA section for each study. Within this GSEA section, there are various parameters you can customize:
 
