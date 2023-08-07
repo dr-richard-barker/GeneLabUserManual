@@ -163,6 +163,8 @@ Lastly, users have the capability of filtering the genes that are displayed by t
 
 Each study will have an associated Differential Gene Expression (DGE) table available that includes information on each individual sample from the study.
 
+*Picture*
+
 To export a Differential Gene Expression (DGE) table from the study visualization page, follow these steps:
 
 1. Locate the DGE Table: Scroll down to the bottom of the study visualization page. There, you'll find the Differential Gene Expression table containing valuable data.
