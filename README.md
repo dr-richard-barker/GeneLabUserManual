@@ -218,17 +218,12 @@ On the Gene Lab Visualization Portal, you'll find a dedicated GSEA section for e
 
 To update the plot with your changes, simply click "Update." A range of plot types is available:
 
-NES Table: View different gene sets in a table format. Export this table using the options at the top.
-
-NES Plot: The default plot displays normalized enrichment scores based on gene sets.
-
-Dot Plot: Similar to NES Plot, it showcases the top six gene sets based on false discovery rate (FDR). FDR indicates the likelihood that a result is valid, e.g., FDR of 0.25 means a 25% chance of validity.
-
-Enrichment Plot: This reveals the fold change distribution of the top three gene sets with an FDR of under 0.25.
-
-Network Plot: Visualize relationships between gene sets using a network plot.
-
-GSEA Info: For in-depth details about GSEA creation, statistics, and plot documentation.
+  * NES Table: View different gene sets in a table format. Export this table using the options at the top.
+  * NES Plot: The default plot displays normalized enrichment scores based on gene sets.
+  * Dot Plot: Similar to NES Plot, it showcases the top six gene sets based on false discovery rate (FDR). FDR indicates the likelihood that a result is valid, e.g., FDR of 0.25 means a 25% chance of validity.
+  * Enrichment Plot: This reveals the fold change distribution of the top three gene sets with an FDR of under 0.25.
+  * Network Plot: Visualize relationships between gene sets using a network plot.
+  * GSEA Info: For in-depth details about GSEA creation, statistics, and plot documentation.
 
 With these steps, you can effectively navigate and utilize the GSEA section, gaining insights into gene set enrichment analysis for your study.
 
