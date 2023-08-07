@@ -170,7 +170,28 @@ The second way is for a user to save the data in different file types to their d
 ## GSEA
 [Link to read about GSEA](https://www.pnas.org/doi/10.1073/pnas.0506580102)
 
-GSEA stands for gene set enrichment analysis and it is a method that identifies classes of genes that are over represented in a large set of genes. It is a method that uses a statistical approach to identify significantly enriched or depleted groups of genes.
+GSEA stands for gene set enrichment analysis and is a method that identifies classes of genes that are over represented in a large set of genes. It is a method that uses a statistical approach to identify significantly enriched or depleted groups of genes. On the GeneLab visualization portal there is a GSEA section for each study with various tabs of information. Within that GSEA section, there are multiple aspects that a user can alter.
+
+Welcome to the Gene Set Enrichment Analysis (GSEA) section. GSEA stands for gene set enrichment analysis, a method to identify gene groups that are overrepresented in a large gene set. It uses statistics to pinpoint significantly enriched or depleted gene classes.
+
+On the Gene Lab Visualization Portal, you'll find a dedicated GSEA section for each study. Within this GSEA section, there are various parameters you can customize:
+
+Choose Gene Sets: Opt for the gene sets to filter from. The default is "KEGG 2019," which is recommended.
+Permutations: Decide the number of permutations you desire and whether they're based on phenotypes or gene sets.
+Gene Number Range: Adjust the minimum and maximum gene sizes. Increasing the minimum size omits genes with fewer than 15 data points, same for the maximum size.
+Weighted Score Type: Defaults to one, representing the t-test. Alternatively, choose signal-to-noise, fold change, or log2 fold change.
+Statistical Method: Select your preferred statistical method. The default is the t-test.
+To update the plot with your changes, simply click "Update." A range of plot types is available:
+
+NES Table: View different gene sets in a table format. Export this table using the options at the top.
+NES Plot: The default plot displays normalized enrichment scores based on gene sets.
+Dot Plot: Similar to NES Plot, it showcases the top six gene sets based on false discovery rate (FDR). FDR indicates the likelihood that a result is valid, e.g., FDR of 0.25 means a 25% chance of validity.
+Enrichment Plot: This reveals the fold change distribution of the top three gene sets with an FDR of under 0.25.
+Network Plot: Visualize relationships between gene sets using a network plot.
+GSEA Info: For in-depth details about GSEA creation, statistics, and plot documentation.
+
+With these steps, you can effectively navigate and utilize the GSEA section, gaining insights into gene set enrichment analysis for your study.
+
 
 ## Ideogram
 
