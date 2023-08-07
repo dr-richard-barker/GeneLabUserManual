@@ -149,15 +149,25 @@ Heatmaps allow researchers to quickly and easily identify patterns of gene expre
 
 *Picture*
 
-Users have the ability to choose which clustering method is used to display the results with the default method set to UPGMA. Users can also toggle off the rows/columns which will change how the heatmap links the common genes.
+* Choosing Clustering Method:
 
-*Picture cluster Rows toggled off*
+  * Users can select a clustering method to display results. The default is often set to UPGMA (Unweighted Pair Group Method with Arithmetic Mean).
+  * Clustering helps group genes with similar expression profiles, making patterns more apparent.
 
-*Picture cluster columns toggled off*
+* Toggling Rows and Columns:
 
-The Log2 transformation feature is available to aid in the display of genes with more apparent differences.
+  * Users can toggle off rows or columns of genes. This affects how the heatmap links genes based on similarity.
+  * Toggling off rows or columns can help focus on specific groups of genes and their expression patterns.
 
-Lastly, users have the capability of filtering the genes that are displayed by their significance. 
+* Log2 Transformation:
+
+  * The Log2 transformation is available to enhance the display of genes with more pronounced differences.
+  * Applying Log2 transformation can reveal subtler variations in gene expression between conditions.
+
+* Filtering by Significance:
+
+  * Users can filter the genes displayed on the heatmap based on their significance.
+  * This filtering helps highlight genes with statistically significant expression changes.
 
 ## DGE Table
 
