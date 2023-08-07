@@ -147,7 +147,7 @@ The ability to change the P value threshold is available and the image below sho
 
 Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression. The default settings for the heat map are shown in the image below. The heatmap links genes depending on how alike they are based on the conditions set in the experiment.  
 
-*Picture*
+*Overview Picture*
 
 * Choosing Clustering Method:
 
@@ -158,6 +158,8 @@ Heatmaps allow researchers to quickly and easily identify patterns of gene expre
 
   * Users can toggle off rows or columns of genes. This affects how the heatmap links genes based on similarity.
   * Toggling off rows or columns can help focus on specific groups of genes and their expression patterns.
+ 
+ *Toggle row/columns Picture*
 
 * Log2 Transformation:
 
@@ -168,6 +170,8 @@ Heatmaps allow researchers to quickly and easily identify patterns of gene expre
 
   * Users can filter the genes displayed on the heatmap based on their significance.
   * This filtering helps highlight genes with statistically significant expression changes.
+ 
+Analyze the heatmap to identify gene expression patterns associated with specific conditions or treatments. Pay attention to color intensity and clustering.
 
 ## DGE Table
 
