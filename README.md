@@ -231,9 +231,13 @@ With these steps, you can effectively navigate and utilize the GSEA section, gai
 
 ## Ideogram
 
+*Picture*
+
 *Not finished*
 
 ## Multistudy Page Overview
+
+*Picture*
 
 Multi-Study analysis is an advanced tool designed for analyzing and visualizing multiple RNA sequencing studies concurrently. The multi-study page is used to initialize the parameters for data visualization of the multiple studies. Researchers can uncover intricate patterns of gene expression associated with specific conditions or treatments across a variety of experiments. Below are detailed instructions on how to effectively navigate and utilize the Multi-Study Page:
 
