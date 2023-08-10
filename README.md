@@ -262,23 +262,29 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 
   * Under "Factor Selection," choose variables to generate a factors table for differential gene analysis.
   * Select parameters, characteristics, or factors from the dropdown list to add to the table.
-Normalization and PCA Insights:
 
-Understand normalization details by clicking the Information button next to the normalization method.
-View the PCA chart, which provides insights into data distribution after normalization.
-Modifying Normalization Method:
+* Normalization and PCA Insights:
 
-If you wish to change the normalization method (e.g., from "DSeek2" to "No Normalization"), click "Change Normalization Method."
-Enter your email address if desired, and choose the desired normalization approach.
-Sample Selection for Gene Expression Analysis:
+  * Understand normalization details by clicking the Information button next to the normalization method.
+  * View the PCA chart, which provides insights into data distribution after normalization.
 
-Select specific samples by clicking the "Select labeled, expand table" button.
-Choose samples based on factors added during factor selection.
-Visualizing and Downloading Results:
+* Modifying Normalization Method:
 
-Click "Visualize Studies" to proceed to visualization plots or download the accounts table.
-Depending on your selection, enter your email address for a notification upon completion.
-Exploring Visualization Plots:
+  * If you wish to change the normalization method (e.g., from "DSeek2" to "No Normalization"), click "Change Normalization Method."
+  * Enter your email address if desired, and choose the desired normalization approach.
+    
+* Sample Selection for Gene Expression Analysis:
 
-Upon completion, the page will direct you to a range of visualization plots and graphs for your data analysis.
+  * Select specific samples by clicking the "Select labeled, expand table" button.
+  * Choose samples based on factors added during factor selection.
+
+* Visualizing and Downloading Results:
+
+  * Click "Visualize Studies" to proceed to visualization plots or download the accounts table.
+  * Depending on your selection, enter your email address for a notification upon completion.
+
+* Exploring Visualization Plots:
+
+  * Upon completion, the page will direct you to a range of visualization plots and graphs for your data analysis.
+
 With these comprehensive instructions, you are well-equipped to navigate the Multi-Study Page efficiently. This tool empowers you to analyze multiple RNA sequencing studies simultaneously, uncovering complex gene expression patterns and gaining valuable insights into your experimental data.
