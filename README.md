@@ -240,7 +240,7 @@ Ideograms provide a schematic representation of chromosomes. They are used to sh
 
 ![](Ideogram/Ideogram.PNG)
 
-The ideogram available through GeneLab offers three options for customization. Two options are related to how the user would like to filter significant genes. The third options allows the user to change the layout of annotations for the Ideogram.
+The ideogram available through GeneLab offers three options for customization. Two options are related to how the user would like to filter significant genes, the first choice being genes with an adjusted P value less than the value set in the text box, and the second choice would be filter by a Log2 FC value greater than the value set in the text box. The third options to customize the plot allows the user to change the layout of annotations for the Ideogram from a drop down menu.
 
 ## Multistudy Page Overview
 
