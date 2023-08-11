@@ -234,6 +234,7 @@ To update the plot with your changes, simply click "Update." A range of plot typ
 With these steps, you can effectively navigate and utilize the GSEA section, gaining insights into gene set enrichment analysis for your study.
 
 ## Ideogram
+[Link to read about Ideograms]([https://medium.com/analytics-vidhya/pairplot-visualization-16325cd725e6#:~:text=Pair%20plot%20is%20used%20to,separation%20in%20our%20data%2Dset.](https://github.com/eweitz/ideogram/tree/gh-pages))
 
 Ideograms provide a schematic representation of chromosomes. They are used to show the relative size of the chromosomes and their characteristic banding patterns.
 
