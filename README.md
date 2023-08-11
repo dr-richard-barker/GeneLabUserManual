@@ -235,9 +235,11 @@ With these steps, you can effectively navigate and utilize the GSEA section, gai
 
 ## Ideogram
 
+Ideograms provide a schematic representation of chromosomes. They are used to show the relative size of the chromosomes and their characteristic banding patterns.
+
 ![](Ideogram/Ideogram.PNG)
 
-*Not finished*
+The ideogram available through GeneLab offers three options for customization. Two options are related to how the user would like to filter significant genes. The third options allows the user to change the layout of annotations for the Ideogram.
 
 ## Multistudy Page Overview
 
