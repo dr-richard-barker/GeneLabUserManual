@@ -31,11 +31,11 @@ After selecting the desired filter from the bar graph, the user can press the â€
 
 Below the Pi charts is a table that lists the studies resulting from the selected filters from above. The table includes the following information for each study: OSD, Title, Assay, Organism, Tissue, and Factor.
 
-*Picture*
+![](StudiesTable/Default.PNG)
 
 By default the studies will be listed in order of OSD-# from smallest to largest, but the order can be flipped based on each information category by clicking the title of the category twice.
 
-*Picture*
+![](StudiesTable/Flipped.PNG)
 
 Finally, once a user has selected a study or multiple studies they can press the "Visualize Study" button to be directed to the data visualization tools. A user may also select multiple studies to visualize simultaneously in which case a user will be directed to a Multi-Study preview page before being directed to the data visualization tools.
 
