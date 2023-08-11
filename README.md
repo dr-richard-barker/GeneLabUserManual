@@ -255,7 +255,7 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 * Data Normalization:
 
   * A dialog box will appear to prompt you for data normalization options.
-  * The default selection is often "DC2" for normalization, but you can also choose "No Normalization."
+  * The default selection is often "DSeq2" for normalization, but you can also choose "No Normalization."
   * If desired, you can enter your email address to receive a notification when the studies have been combined and normalized.
     * Alternatively, proceed without entering an email address.
       
