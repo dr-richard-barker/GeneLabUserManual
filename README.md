@@ -151,7 +151,7 @@ The ability to change the P value threshold is available and the image below sho
 
 Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression. The default settings for the heat map are shown in the image below. The heatmap links genes depending on how alike they are based on the conditions set in the experiment.  
 
-*Overview Picture*
+![](Heatmap/Heatmap_Overview.PNG)
 
 * Choosing Clustering Method:
 
@@ -181,7 +181,7 @@ Analyze the heatmap to identify gene expression patterns associated with specifi
 
 Each study will have an associated Differential Gene Expression (DGE) table available that includes information on each individual sample from the study.
 
-*Picture*
+![](DGE%20Table/DGE_Table.PNG)
 
 To export a Differential Gene Expression (DGE) table from the study visualization page, follow these steps:
 
@@ -235,13 +235,13 @@ With these steps, you can effectively navigate and utilize the GSEA section, gai
 
 ## Ideogram
 
-*Picture*
+![](Ideogram/Ideogram.PNG)
 
 *Not finished*
 
 ## Multistudy Page Overview
 
-*Picture*
+![](MultiStudyPage/MultiStudPage_Overview.PNG)
 
 Multi-Study analysis is an advanced tool designed for analyzing and visualizing multiple RNA sequencing studies concurrently. The multi-study page is used to initialize the parameters for data visualization of the multiple studies. Researchers can uncover intricate patterns of gene expression associated with specific conditions or treatments across a variety of experiments. Below are detailed instructions on how to effectively navigate and utilize the Multi-Study Page:
 
