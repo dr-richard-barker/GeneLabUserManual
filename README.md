@@ -11,15 +11,17 @@ GeneLab has a Data Visualiation portal that provides users have the ability to i
 The metadata dashboard is designed to help users narrow search results for experimental data. It provides various tools for filtering and displaying results.
 The main tools for filtering the studies table's results are the Pi charts and the filters on the left side of the dashboard. Each section of the Pi chart acts as a separate section of filters, and when a filter from the Pi chart is selected the results containing that factor will automatically populate in the studies table below. A user can make one selection on each Pi chart to narrow results in the studies table further.
 
-*Picture*
+![](MetadataDashboard/DashboardOverview.PNG)
 
 In addition to the Pi Charts, there are specific filters on the left side of the dashboard that can be selected to narrow down results. When selecting filters on the Pi charts or on the left side of the dashboard, both sections will be updated to show the selected filters and the studies table will be updated to show the relevant studies.
 
-*Picture*
+Another tool that is provided with each individual Pi chart is the crosshair located on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. 
 
-Another tool that is provided with each individual Pi chart is the crosshair located on the bottom-left of the chart. When you select the crosshair a bar graph displaying the different factors listed within the Pi chart will appear. The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing "Time" from the bar graph selection.
+![](MetadataDashboard/Crosshair.PNG)
 
-*Picture*
+The bar graph is an additional way to display the number of results each factor has, and when a factor is selected from the bar graph that individual factor will be broken down further into the various types of the factor that was selected. The below example shows the breakdown of choosing "Time" from the bar graph selection.
+
+![](MetadataDashboard/SelectFactorBarChart.PNG)
 
 *Krona section*
 
