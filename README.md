@@ -45,7 +45,7 @@ When a user has selected the study/studies to visualize, they will be drirected 
 
 The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled “samples” that a user can press to see the individual samples and additional information for the study.
 
-*Picture*
+![](Sidebar%20Functions/Sidebar.PNG)
 
 Below the study details button is a label for each individual plot provided for a user within the data visualization tool. Clicking these labels will automatically direct the user to the plot associated with the label.
 
@@ -61,9 +61,11 @@ When a user accesses the multi-study visualization the DGE table will have sever
 
 Plotly is a third party software that is using data provided by GeneLab to create the interactive visualizations displayed. At the top-right corner of each plot will be options to help a user better visualize the data.
 
-*Picture*
+![](Plotly/Overview.PNG)
 
 The house logo within the options will reset the axes of the plots back to default. Users are also provided the option to zoom in/out on each plot as well as autoscale the graphic. There are two tools provided for data point selection, which are the lasso tool and box tool. Each of these tools provides a shape that will select any data points that fall within them. Lastly, there is a download button in the shape of a camera that will let you download the plot as a PNG file. 
+
+![](Plotly/Toolbar.PNG)
 
 ## PCA Plots
 [Link to read about PCA plots](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
