@@ -23,8 +23,6 @@ The bar graph is an additional way to display the number of results each factor 
 
 ![](MetadataDashboard/SelectFactorBarChart.PNG)
 
-*Krona section*
-
 After selecting the desired filter from the bar graph, the user can press the “apply filter” button to update the results within the studies table. When a filter is selected, a red "X" will also appear next to the crosshair of the associated Pi chart. Pressing the red "X" button will clear the selected filters.
 
 ## Studies Table
