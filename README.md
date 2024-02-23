@@ -3,7 +3,7 @@
 ## About GeneLab
 GeneLab is an open-access resource that enables scientists to upload, store, share, and analyze omics data from spaceflight experiments. It facilitates information sharing, fosters innovation, and accelerates scientific discovery in space biology. By studying the effects of microgravity and space environment on DNA, RNA, proteins, and metabolites, GeneLab contributes to our understanding of biology, and advances in genomics. It provides coordinated data sets and metadata, allowing users to gain comprehensive insights and make novel discoveries. GeneLab's impact lies in its ability to facilitate information sharing, drive innovation, and ultimately expand our knowledge of how space conditions affect the fundamental building blocks of life.
 ## About Data Visualization
-GeneLab has a Data Visualiation portal that provides users have the ability to interact with the processed data from space related studies within GeneLab's database. The portal encompasses various visualization types, including Gene Expression query tables, Dendrograms, Heatmaps, Ideogram, Gene Set Enrichment Analysis and a range of interactive plots including PCA plots, Pair plots, and Volcano plots. Each tool offers researchers flexibility to adjust parameters and explore specific aspects of the data effectively.
+GeneLab has a Data Visualisation portal that provides users have the ability to interact with the processed data from space-related studies within GeneLab's database. The portal encompasses various visualization types, including Gene Expression query tables, Dendrograms, Heatmaps, Ideogram, Gene Set Enrichment Analysis and a range of interactive plots including PCA plots, Pair plots, and Volcano plots. Each tool offers researchers the flexibility to adjust parameters and explore specific aspects of the data effectively.
 
 ## Metadata Dashboard
 [Link to Metadata Dashboard](https://visualization.genelab.nasa.gov/data/)
@@ -39,7 +39,7 @@ Finally, once a user has selected a study or multiple studies they can press the
 
 ## Sidebar Functions
 
-When a user has selected the study/studies to visualize, they will be drirected to the data visualization tools, where a sidebar of helpful tools is provided on the left side of the screen.
+When a user has selected the study/studies to visualize, they will be directed to the data visualization tools, where a sidebar of helpful tools is provided on the left side of the screen.
 
 The "Study Details" button is located at the top of the sidebar. This button pulls up a display with the study information including a small description. The display also includes a tab labeled “samples” that a user can press to see the individual samples and additional information for the study.
 
@@ -57,7 +57,7 @@ When a user accesses the multi-study visualization the DGE table will have sever
 
 ## Plotly
 
-Plotly is a third party software that is using data provided by GeneLab to create the interactive visualizations displayed. At the top-right corner of each plot will be options to help a user better visualize the data.
+Plotly is a third-party software that is using data provided by GeneLab to create the interactive visualizations displayed. At the top-right corner of each plot will be options to help a user better visualize the data.
 
 ![](Plotly/Overview.PNG)
 
@@ -80,17 +80,17 @@ The graph will update to display the data on an "X", and "Y" axis only.
 
 The "Color by Factor" feature allows users to select a specific factor from the study for representation on the graph to allow for an easier comparison between differences in the data.
 
-Select the "Color by Facor" drop down menu
+Select the "Color by Facor" drop-down menu
 
-Within the drop down menu select one factor, then press the "Update" button
+Within the drop-down menu select one factor, then press the "Update" button
 
-In this example, the "Cell Line" factor was selected from the drop down
+In this example, the "Cell Line" factor was selected from the drop-down
 
 ![](PCA/PCA%20Color%20by%20Factor.JPG)
 
 The results will now be represented by colors matching the factor that was selected.
 
-In this example, (OSD-154) the colors are representing the different cell lines from the experiment and clearly shows how the cell lines could be a factor in the differences between the data points.
+In this example, (OSD-154) the colors represent the different cell lines from the experiment and clearly shows how the cell lines could be a factor in the differences between the data points.
 
 Another feature within the PCA plot tool allows users to hide factors by selecting the label located on the right side of the plot.
 
@@ -105,7 +105,7 @@ Click on the label "GM15036" a second time and the data will return.
 ## Pair Plots
 [Link to read about Pair Plots](https://medium.com/analytics-vidhya/pairplot-visualization-16325cd725e6#:~:text=Pair%20plot%20is%20used%20to,separation%20in%20our%20data%2Dset.)
 
-Pair plots are used for Exploratory Data Analysis, where the plot visualizes the data in order to find a relationsip between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in a dataset.
+Pair plots are used for Exploratory Data Analysis, where the plot visualizes the data to find a relationship between variables that can be continuous or categorical. A Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in a dataset.
 
 The default display for the pair plot will be the comparison between two sets of data with a % difference color threshold of 20%. Two plots will be displayed on the dashboard for the ability to compare multiple sets of data simultaneously. 
 
@@ -115,7 +115,7 @@ Within the plot, users have the ability to change the % difference color thresho
 
 ![](PairPlot/ColorThreshold.JPG)
 
-Clicking each of the drop down menus will allow user to change which axis the sample data is displayed on.
+Clicking each of the drop-down menus will allow the user to change which axis the sample data is displayed on.
 
 ![](PairPlot/SampleChange.JPG)
 
@@ -136,7 +136,7 @@ The default display for Volcano Plots will have the -Log10(Adj P Value) with and
 
 ![](VolcanoPlot/Default.JPG)
 
-Users have the ability to change the type of data displayed on the Y axis, and the options from the dropdown menu inculde "P Value, Adjusted P Value, and -Log10(P Value)". Below is an example of the "P value" display for a volcano plot.
+Users have the ability to change the type of data displayed on the Y axis, and the options from the dropdown menu include "P Value, Adjusted P Value, and -Log10(P Value)". Below is an example of the "P-value" display for a volcano plot.
 
 ![](VolcanoPlot/Pvalue.JPG)
 
@@ -147,7 +147,7 @@ The ability to change the P value threshold is available and the image below sho
 ## Heatmap
 [Link to read about Heatmaps](https://www.htgmolecular.com/blog/2023-05-03/understanding-heat-maps-in-gene-expression-profiling)
 
-Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and uses color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression. The default settings for the heat map are shown in the image below. The heatmap links genes depending on how alike they are based on the conditions set in the experiment.  
+Heatmaps allow researchers to quickly and easily identify patterns of gene expression that are associated with specific conditions or treatments and use color coding to indicate the magnitude of values. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression. The default settings for the heat map are shown in the image below. The heatmap links genes depending on how alike they are based on the conditions set in the experiment.  
 
 ![](Heatmap/Heatmap_Overview.PNG)
 
@@ -238,13 +238,13 @@ Ideograms provide a schematic representation of chromosomes. They are used to sh
 
 ![](Ideogram/Ideogram.PNG)
 
-The ideogram available through GeneLab offers three options for customization. Two options are related to how the user would like to filter significant genes, the first choice being genes with an adjusted P value less than the value set in the text box, and the second choice would be filter by a Log2 FC value greater than the value set in the text box. The third options to customize the plot allows the user to change the layout of annotations for the Ideogram from a drop down menu.
+The ideogram available through GeneLab offers three options for customization. Two options are related to how the user would like to filter significant genes, the first choice being genes with an adjusted P-value less than the value set in the text box, and the second choice would be filtered by a Log2 FC value greater than the value set in the text box. The third option to customize the plot allows the user to change the layout of annotations for the Ideogram from a drop-down menu.
 
 ## Multistudy Page Overview
 
 ![](MultiStudyPage/MultiStudPage_Overview.PNG)
 
-Multi-Study analysis is an advanced tool designed for analyzing and visualizing multiple RNA sequencing studies concurrently. The multi-study page is used to initialize the parameters for data visualization of the multiple studies. Researchers can uncover intricate patterns of gene expression associated with specific conditions or treatments across a variety of experiments. Below are detailed instructions on how to effectively navigate and utilize the Multi-Study Page:
+Multi-study analysis is an advanced tool designed for analyzing and visualizing multiple RNA sequencing studies concurrently. The multi-study page is used to initialize the parameters for data visualization of the multiple studies. Researchers can uncover intricate patterns of gene expression associated with specific conditions or treatments across a variety of experiments. Below are detailed instructions on how to effectively navigate and utilize the Multi-Study Page:
 
 * Selecting studies for Multi-study analysis:
 
@@ -257,8 +257,8 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 
 * Data Normalization:
 
-  * A dialog box will appear to prompt you for data normalization options.
-  * The default selection is often "DSeq2" for normalization, but you can also choose "No Normalization."
+  * A dialogue box will appear to prompt you for data normalization options.
+  * The default selection is often "DESeq2" for normalization, but you can also choose "No Normalization."
   * If desired, you can enter your email address to receive a notification when the studies have been combined and normalized.
     * Alternatively, proceed without entering an email address.
       
@@ -279,12 +279,12 @@ Multi-Study analysis is an advanced tool designed for analyzing and visualizing 
 
 * Modifying Normalization Method:
 
-  * If you wish to change the normalization method (e.g., from "DSeek2" to "No Normalization"), click "Change Normalization Method."
+  * If you wish to change the normalization method (e.g., from "DESeq2" to "No Normalization"), click "Change Normalization Method."
   * Enter your email address if desired, and choose the desired normalization approach.
     
 * Sample Selection for Gene Expression Analysis:
 
-  * Select specific samples by clicking the "Select labeled, expand table" button.
+  * Select specific samples by clicking the "Select labelled, expand table" button.
   * Choose samples based on factors added during factor selection.
 
 * Visualizing and Downloading Results:
